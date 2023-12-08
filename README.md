@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Technologies I work with
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,firebase,mongodb,nodejs,git,&perline=5" />
+  </a>
+</p>
+
+## Current Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smbmunna&theme=github_dark)
+
