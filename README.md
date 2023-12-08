@@ -1,4 +1,4 @@
-![React cover image!](/images/cover-photo/lautaro-andreani-UYsBCu9RP3Y-unsplash.jpg)
+![React cover image!](/images/cover-photo/lautaro-andreani-UYsBCu9RP3Y-unsplash%20(1).jpg)
 
 <!--
 **smbmunna/smbmunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
