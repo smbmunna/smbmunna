@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💬 Introduction: 
+Welcome! <br>
+I am a frontend developer focused on React.js. <br>
+I am open to networking, collaboration, and learning from the vibrant community of developers.
+My goal is to be part of a collaborative team where I can apply my knowledge, learn from experienced professionals, and contribute to creating seamless user experiences.<br>
+Let's code, innovate, and create together! 🚀
 ## 🔧 Tech Stack
 - 💻 Proficient in: HTML, CSS, JavaScript (ES6+).
 - ⚛️ Hands-on experience with React.js.
