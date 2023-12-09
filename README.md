@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[<p align="center"><img height="75" src="images/icons/linkedin-icon-2.svg">](https://www.linkedin.com/in/smb-munna-75849772)[<img height="75" src="images/icons/facebook-3-2.svg">](https://www.facebook.com/smbmunna)[<img height="75" src="images/icons/instagram-2016-5.svg"> </p>](https://instagram.com/smbmunna_)
+[<p align="center">[<img height="75" src="images/icons/linkedin-icon-2.svg">](https://www.linkedin.com/in/smb-munna-75849772)[<img height="75" src="images/icons/facebook-3-2.svg">](https://www.facebook.com/smbmunna)[<img height="75" src="images/icons/instagram-2016-5.svg"> </p>](https://instagram.com/smbmunna_)
 
 ## Technologies I work with
 
