@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔧 Tech Stack
+- 💻 Proficient in: HTML, CSS, JavaScript (ES6+).
+- ⚛️ Hands-on experience with React.js.
+- ⚡ Backend Technologies: Familiar with Node.js, Express.js and MongoDB database. 
+- ⚡ Authentication using Firebase.
+- ⚡ Firebase hosting. 
+- 🛠️ Familiar with tools like Git, npm, and Webpack.
+
 ## Technologies I work with
 
 <p align="center">
@@ -26,3 +34,5 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smbmunna&theme=github_dark)
 
+## Contribution Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smbmunna&theme=dark)](https://git.io/streak-stats)
