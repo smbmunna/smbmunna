@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 ## 🔧 Tech Stack
 - 💻 Proficient in: HTML, CSS, JavaScript (ES6+).
 - ⚛️ Hands-on experience with React.js.
-- ⚡ Backend Technologies: Familiar with Node.js, Express.js and MongoDB database. 
-- ⚡ Authentication using Firebase.
+- 📫 Backend Technologies: Familiar with Node.js, Express.js and MongoDB database. 
+- 💬 Authentication using Firebase.
 - ⚡ Firebase hosting. 
 - 🛠️ Familiar with tools like Git, npm, and Webpack.
+
+## Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="images/icons/linkedin-icon-2.svg">](https://www.linkedin.com/in/smb-munna-75849772)[<img height="75" src="images/icons/facebook-3-2.svg">](https://www.facebook.com/smbmunna)[<img height="75" src="images/icons/instagram-2016-5.svg"> </p>](https://twitter.com/_mir_hussain_)
 
 ## Technologies I work with
 
@@ -79,3 +85,4 @@ Here are some ideas to get you started:
 
 ## Contribution Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smbmunna&theme=dark)](https://git.io/streak-stats)
+
