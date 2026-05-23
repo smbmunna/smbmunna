@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Curious%20Developer%20%E2%80%A2%20Turning%20Ideas%20Into%20Modern%20Web%20Experiences&font=Fira%20Code&center=true&width=700&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Curious%20Developer%20%20Turning%20Ideas%20Into%20Modern%20Web%20Experiences&font=Fira%20Code&center=true&width=700&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </a>
 </p>
 
