@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 😄 I am Fullstack Web Developer.
 - 👯 You can see my projects on **(https://smbmunna.vercel.app/portfolio)**
-- 👯 I am always active on **[Linkedin] (https://smbmunna.vercel.app/portfolio)**
+- 👯 I am always active on **(linkedin.com/in/mahmud-munna-75849772)**
 - 💬 I write tech articles regularly on **(https://dev.to/smbmunna)**
 - 🔭 I’m currently working on a Fullstack PERN project
 - 🌱 I’m currently learning TypeScript, Next.js
