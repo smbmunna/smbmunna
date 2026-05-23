@@ -42,51 +42,39 @@ Here are some ideas to get you started:
 </a>
 <!-- <br /> -->
 
-[<p align="center"><img height="60" src="images/icons/linkedin-icon-2.svg">](https://www.linkedin.com/in/smb-munna-75849772) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) </p>](https://instagram.com/smbmunna)
-
-
 ## 🔧 Tech Stack
-- 💻 Proficient in: HTML, CSS, JavaScript (ES6+).
+- 💻 Proficient in: JavaScript (ES6+), TypeScript.
 - ⚛️ Hands-on experience with React.js.
-- 📫 Backend Technologies: Familiar with Node.js, Express.js and MongoDB database. 
+- 📫 Backend Technologies: Familiar with Node.js, Express.js, MongoDB, Postgres database. 
 - 💬 Authentication using Firebase.
-- ⚡ Firebase hosting. 
-- 🛠️ Familiar with tools like Git, npm, and Webpack.
+- ⚡ Firebase and Vercel hosting. 
+- 🛠️ Familiar with tools like Git, npm.
 
-
-
-## Technologies I work with
+<!-- ## Technologies I work with
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,firebase,mongodb,nodejs,git,&perline=5" />
   </a>
-</p>
+</p> -->
 
 ## Projects
-### 1. Inventify Inventory Management System
-####  Project Overview: 
-- A Multistore Inventory Management System where shop managers can open multiple shops to maintain their product invengory. 
-- Sell those products to customer and generate invoices. 
-- See the overall shop statistics on an intuitive Dashboard. 
-- Can increase their product limit by purchasing subscriptions with Card Paymets. 
-- Admin can generate income based on each subscriptions. etc. 
+### 1. Gamers Hub
+- A platform built for tracking gaming data and reviews using the popular rawg.io API , where users can search for games, check the review, filter and sort the game data by platforms, relavancy, release date etc. and much more. 
 
-#### Admin Access: 
-- Admin email: admin@gmail.com
-- Admin password: Admin@123
+####  Links: 
+**[Github Link](https://github.com/smbmunna/gamers-hub.git)** || 
+**[Live Link](https://gamers-hub-mu.vercel.app/)**
 
+### 1. Rise at Seven
+- A pixel-perfect frontend recreation of the homepage of the Rise at Seven website as part of the Junior MERN Developer hiring task for DeveloperLook.
 
- ####  Links: 
- **[ Client Github Link](https://github.com/smbmunna/inventify)** || 
-**[ Client Live Link](https://fresh-bites-6a368.web.app/)**
-
-**[ Server Github Link](https://github.com/smbmunna/inventify-server)** ||
-**[ Server Live Link](https://inventify-server.vercel.app/)**
+####  Links: 
+**[Github Link](https://github.com/smbmunna/rise-at-seven.git)** || 
+**[Live Link](https://rise-at-seven-eta.vercel.app/)**
 
 
-### 2. Bookshelf Online Library
-
+### 3. Bookshelf Online Library
 - An online library where users see book preview, Borrow books and Return when finished reading. 
 
 **[ Client Github Link](https://github.com/smbmunna/bookshelf)** ||
@@ -94,17 +82,6 @@ Here are some ideas to get you started:
 
 **[ Server Github Link](https://github.com/smbmunna/bookshelf-server)** ||
 **[ Server Live Link](https://bookshelfserver-brown.vercel.app/)**
-
-### 3. Tech Garage
-- An online gadget shop where users can choose from various gadgets and add those gadets to their carts and make purchase if confirmed. 
-
-**[ Client Github Link](https://github.com/smbmunna/tech-garage)** ||
-**[ Client Live Link](https://tech-garage-9e1a9.web.app)**
-
-**[ Server Github Link](https://github.com/smbmunna/tech-garage-server)** ||
-**[ Server Live Link](https://tech-garage-server.vercel.app/)**
-
-
 
 ## Current Stats
 
