@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💬 Introduction: 
-Welcome! <br>
-I am a frontend developer focused on React.js. <br>
-I am open to networking, collaboration, and learning from the vibrant community of developers.
-My goal is to be part of a collaborative team where I can apply my knowledge, learn from experienced professionals, and contribute to creating seamless user experiences.<br>
-Let's code, innovate, and create together! 🚀
+Welcome! 🚀
+I’m a developer passionate about building meaningful digital experiences, solving real-world problems, and continuously learning new technologies.
+
+I enjoy turning ideas into functional products and collaborating with people who love to innovate, create, and grow together.
+
 ## Reach me out
 
 <br />
 
-[<p align="center"><img height="60" src="images/icons/linkedin-icon-2.svg">](https://www.linkedin.com/in/smb-munna-75849772) [<img height="60" src="images/icons/facebook-3-2.svg">](https://www.facebook.com/smbmunna)[<img height="60" src="images/icons/instagram-2016-5.svg"> </p>](https://instagram.com/smbmunna)
+[<p align="center"><img height="60" src="images/icons/linkedin-icon-2.svg">](https://www.linkedin.com/in/smb-munna-75849772) [<img height="60" src="images/icons/instagram-2016-5.svg"> </p>](https://instagram.com/smbmunna)
+
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ## 🔧 Tech Stack
 - 💻 Proficient in: HTML, CSS, JavaScript (ES6+).
 - ⚛️ Hands-on experience with React.js.
