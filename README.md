@@ -25,18 +25,18 @@ Here are some ideas to get you started:
 
 - 😄 I am Fullstack Web Developer.
 - 👯 You can see my projects on **(https://smbmunna.vercel.app/portfolio)**
-- 👯 I am always active on **(linkedin.com/in/mahmud-munna-75849772)**
+- 👯 I am always active on **(https://linkedin.com/in/mahmud-munna-75849772)**
 - 💬 I write tech articles regularly on **(https://dev.to/smbmunna)**
 - 🔭 I’m currently working on a Fullstack PERN project
 - 🌱 I’m currently learning TypeScript, Next.js
 <!-- - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
-.
-
 ## Reach me out
-
-<br />
+<a href="https://smbmunna.vercel.app/" target="_blank">
+  <img src="https://camo.githubusercontent.com/27ce6242347c0079837ab11d15959555a2da818812851a1675ab41ac3101d4fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3235354536333f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" alt="Portfolio Badge"/>
+</a>
+<!-- <br /> -->
 
 [<p align="center"><img height="60" src="images/icons/linkedin-icon-2.svg">](https://www.linkedin.com/in/smb-munna-75849772) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) </p>](https://instagram.com/smbmunna)
 
