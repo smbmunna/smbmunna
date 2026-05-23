@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 <a href="https://smbmunna.vercel.app/" target="_blank">
   <img src="https://camo.githubusercontent.com/27ce6242347c0079837ab11d15959555a2da818812851a1675ab41ac3101d4fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3235354536333f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" alt="Portfolio Badge"/>
 </a>
+<a href="https://smbmunna.vercel.app/" target="_blank">
+  <img src="https://www.linkedin.com/in/mahmud-munna-75849772" alt="Linkedin Badge"/>
+</a>
 <!-- <br /> -->
 
 [<p align="center"><img height="60" src="images/icons/linkedin-icon-2.svg">](https://www.linkedin.com/in/smb-munna-75849772) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) </p>](https://instagram.com/smbmunna)
