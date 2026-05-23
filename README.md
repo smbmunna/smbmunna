@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Turning+Ideas+Into+Modern+Web+Experiences)](https://git.io/typing-svg)
+
 ## 💬 Introduction: 
 Welcome! 🚀
 I’m a developer passionate about building meaningful digital experiences, solving real-world problems, and continuously learning new technologies.
