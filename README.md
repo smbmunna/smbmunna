@@ -24,9 +24,9 @@ I enjoy turning ideas into functional products and collaborating with people who
 
 <br />
 
-[<p align="center"><img height="60" src="images/icons/linkedin-icon-2.svg">](https://www.linkedin.com/in/smb-munna-75849772) [<img height="60" src="images/icons/instagram-2016-5.svg"> </p>](https://instagram.com/smbmunna)
+[<p align="center"><img height="60" src="images/icons/linkedin-icon-2.svg">](https://www.linkedin.com/in/smb-munna-75849772) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) </p>](https://instagram.com/smbmunna)
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
 ## 🔧 Tech Stack
 - 💻 Proficient in: HTML, CSS, JavaScript (ES6+).
 - ⚛️ Hands-on experience with React.js.
