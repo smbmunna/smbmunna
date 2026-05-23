@@ -20,15 +20,19 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?lines=%20Turning%20Ideas%20Into%20Modern%20Web%20Experiences&font=Fira%20Code&center=true&width=700&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </a>
 </p>
-<!-- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Turning+Ideas+Into+Modern+Web...)](https://git.io/typing-svg) -->
-
 
 ## 💬 Introduction: 
-Welcome! 🚀
-I’m a developer passionate about building meaningful digital experiences, solving real-world problems, and continuously learning new technologies.
 
-I enjoy turning ideas into functional products and collaborating with people who love to innovate, create, and grow together.
+- 😄 I am Fullstack Web Developer.
+- 👯 You can see my projects on **(https://smbmunna.vercel.app/portfolio)**
+- 👯 I am always active on **[Linkedin] (https://smbmunna.vercel.app/portfolio)**
+- 💬 I write tech articles regularly on **(https://dev.to/smbmunna)**
+- 🔭 I’m currently working on a Fullstack PERN project
+- 🌱 I’m currently learning TypeScript, Next.js
+<!-- - 🤔 I’m looking for help with ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ... -->
+.
 
 ## Reach me out
 
